@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#111113"/>
+  <g transform="translate(32 31.5) scale(1.25)" fill="none" stroke="#fafafa" stroke-width="2.2" stroke-linejoin="round">
+    <polygon points="0,-17.5 8.66,-12.5 8.66,-2.5 0,2.5 -8.66,-2.5 -8.66,-12.5" fill="#fafafa" fill-opacity="0.18"/>
+    <polygon points="-8.66,-2.5 0,2.5 0,12.5 -8.66,17.5 -17.32,12.5 -17.32,2.5"/>
+    <polygon points="8.66,-2.5 17.32,2.5 17.32,12.5 8.66,17.5 0,12.5 0,2.5" fill="#fafafa" fill-opacity="0.08"/>
+    <g fill="#fafafa" stroke="none">
+      <circle cx="0" cy="2.5" r="3"/>
+      <circle cx="0" cy="-17.5" r="2.2"/>
+      <circle cx="-17.32" cy="12.5" r="2.2"/>
+      <circle cx="17.32" cy="12.5" r="2.2"/>
+    </g>
+  </g>
+</svg>
